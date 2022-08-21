@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/mdammar786/ecommerce/static/js/main.1fa3bf87.chunk.js",
+    "main.js.map": "/mdammar786/ecommerce/static/js/main.1fa3bf87.chunk.js.map",
+    "runtime-main.js": "/mdammar786/ecommerce/static/js/runtime-main.942fcf7c.js",
+    "runtime-main.js.map": "/mdammar786/ecommerce/static/js/runtime-main.942fcf7c.js.map",
+    "static/js/2.ba93ba03.chunk.js": "/mdammar786/ecommerce/static/js/2.ba93ba03.chunk.js",
+    "static/js/2.ba93ba03.chunk.js.map": "/mdammar786/ecommerce/static/js/2.ba93ba03.chunk.js.map",
+    "index.html": "/mdammar786/ecommerce/index.html",
+    "precache-manifest.7d890c8b8996d400eec798b480e70135.js": "/mdammar786/ecommerce/precache-manifest.7d890c8b8996d400eec798b480e70135.js",
+    "service-worker.js": "/mdammar786/ecommerce/service-worker.js",
+    "static/js/2.ba93ba03.chunk.js.LICENSE.txt": "/mdammar786/ecommerce/static/js/2.ba93ba03.chunk.js.LICENSE.txt",
+    "static/media/commerce.png": "/mdammar786/ecommerce/static/media/commerce.3bf24e4b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.942fcf7c.js",
+    "static/js/2.ba93ba03.chunk.js",
+    "static/js/main.1fa3bf87.chunk.js"
+  ]
+}
