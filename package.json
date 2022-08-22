@@ -1,6 +1,5 @@
 {
-  "name": "eccomerce",
-  "homepage": "https://github.com/mdammar786/ecommerce",
+  "name": "ecommerce",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
